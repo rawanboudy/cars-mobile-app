@@ -36,10 +36,10 @@ A cross-platform mobile app built using **Flutter** and **Firebase**, designed t
 
 ## 📸 Screenshots
 
-```md
-![Home Page](screenshots/home page.jpeg)
-![Car Listing](screenshots/manage requests.png)
-![Admin Dashboard](screenshots/choose brand.jpeg)
-![Admin Dashboard](screenshots/car details.png)
-![Admin Dashboard](screenshots/choose color.png)
-![Admin Dashboard](screenshots/filter.jpeg)
+![Home Page](screenshots/home%20page.jpeg)  
+![Car Listing](screenshots/manage%20requests.png)  
+![Admin Dashboard - Choose Brand](screenshots/choose%20brand.jpeg)  
+![Admin Dashboard - Car Details](screenshots/car%20details.png)  
+![Admin Dashboard - Choose Color](screenshots/choose%20color.png)  
+![Admin Dashboard - Filter](screenshots/filter.jpeg)
+
