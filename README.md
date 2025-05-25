@@ -1,3 +1,4 @@
+ HEAD
 # 🚗 Cars Mobile Application
 
 A cross-platform mobile app built using **Flutter** and **Firebase**, designed to facilitate browsing, buying, and selling cars. This app provides a seamless user experience for general users and includes a dedicated admin dashboard for inventory and request management.
@@ -49,3 +50,21 @@ A cross-platform mobile app built using **Flutter** and **Firebase**, designed t
 </p>
 
 
+=======
+# course_project
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+ 38546d2 (Update project with latest changes)

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "878690816525",
+    "project_id": "mobile-feaf5",
+    "storage_bucket": "mobile-feaf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878690816525:android:9fde04f9ab554ef6cafb44",
+        "android_client_info": {
+          "package_name": "com.Boudycar.Motorly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgy68Ptj2O0aoBHvV8-NuIBmuxLjUqYbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878690816525:android:d01197156733f512cafb44",
+        "android_client_info": {
+          "package_name": "com.Boudycar.Motorly.course_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgy68Ptj2O0aoBHvV8-NuIBmuxLjUqYbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878690816525:android:dd6bdd647977c1f0cafb44",
+        "android_client_info": {
+          "package_name": "com.Boudycar.Motorly.project_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgy68Ptj2O0aoBHvV8-NuIBmuxLjUqYbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
